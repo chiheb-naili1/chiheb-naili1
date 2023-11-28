@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chiheb Naili and I'm a Developper, from Tunisia</h2>
+<h2 align="left">Hi 👋! My name is Chiheb Naili AKA KIMORA and I'm a Developper, from Tunisia</h2>
 
 ###
 
